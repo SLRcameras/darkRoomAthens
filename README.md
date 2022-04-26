@@ -15,6 +15,7 @@ The equipment is kind of vintage, but at good quality and exactly what neeeded t
 ----
 
 ## The Tank
+Can develop both 35mm and 120 films
 
  <p align="center">
 <img
@@ -27,7 +28,7 @@ width = 500
 ----
 
 ## Safety light
-
+This is the red light bulb
  <p align="center">
 <img
 src="img/02.PNG"
