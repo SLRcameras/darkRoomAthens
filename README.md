@@ -1,6 +1,6 @@
 [![](https://img.shields.io/badge/organization-SLRcameras-blue.svg)](https://github.com/SLRcameras) 
-[![](https://img.shields.io/badge/remote-DURST--609-green.svg)](https://github.com/SLRcameras/DURST-609) 
-[![](https://img.shields.io/badge/local-F:\prj\SLR\DURST--609-orange.svg)]() 
+[![](https://img.shields.io/badge/remote-darkRoom-green.svg)](https://github.com/SLRcameras/darkRoom) 
+[![](https://img.shields.io/badge/local-F:\prj\SLR\darkRoom-orange.svg)]() 
 
 
 
