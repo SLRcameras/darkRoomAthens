@@ -8,7 +8,7 @@
 #  darkRoom
 Dark room equipment for black & white film photography.
 
-This is a dark-room set, I inherited from a good friend. 
+This is a dark-room set, I was given from a good friend. 
 
 The equipment is kind of vintage, but at good quality and exactly what neeeded to start with  film photography dark-room
 
