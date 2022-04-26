@@ -6,7 +6,11 @@
 
 
 #  darkRoom
-Dark room equipment for black & white film photography
+Dark room equipment for black & white film photography.
+
+This is a dark-room set, I inherited from a good friend. 
+
+The equipment is kind of vintage, but at good quality and exactly what neeeded to start with  film photography dark-room
 
 ----
 
@@ -108,7 +112,7 @@ width = 700
  <p align="center">
 <img
 src="img/17.PNG"
-width = 500
+width = 300
 />
 </p> 
 
@@ -136,7 +140,7 @@ width = 500
 
 ----
 ## Paterson Catalogue
-
+from 1967!!!
  <p align="center">
 <img
 src="img/14.PNG"
