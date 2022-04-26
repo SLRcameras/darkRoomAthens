@@ -36,35 +36,27 @@ width = 500
  <p align="center">
 <img
 src="img/03.PNG"
-width = 500
+width = 300
+/>
+<img
+src="img/08.PNG"
+width = 300
 />
 </p> 
 
- <p align="center">
-<img
-src="img/08.PNG"
-width = 500
-/>
-</p> 
 
 ## Twizzers and squigges
 
  <p align="center">
 <img
 src="img/04.PNG"
-width = 500
+width = 700
 />
 </p> 
 
 ----
 
 ## Bath for paper development
- <p align="center">
-<img
-src="img/05.PNG"
-width = 500
-/>
-</p> 
 
  <p align="center">
 <img
@@ -97,7 +89,7 @@ width = 200
  <p align="center">
 <img
 src="img/10.PNG"
-width = 500
+width = 700
 />
 </p> 
 
@@ -107,9 +99,21 @@ for 120 film
  <p align="center">
 <img
 src="img/11.PNG"
+width = 700
+/>
+</p> 
+
+## Film dust remover
+
+ <p align="center">
+<img
+src="img/17.PNG"
 width = 500
 />
 </p> 
+
+----
+
 
 ## Books
 
@@ -140,17 +144,12 @@ width = 500
 />
 </p> 
 
-
-
-
  <p align="center">
 <img
 src="img/15.PNG"
 width = 500
 />
 </p> 
-
-----
 
  <p align="center">
 <img
@@ -161,25 +160,6 @@ width = 500
 
 ----
 
-
- <p align="center">
-<img
-src="img/17.PNG"
-width = 500
-/>
-</p> 
-
-----
-
-## Film dust remover
- <p align="center">
-<img
-src="img/18.PNG"
-width = 500
-/>
-</p> 
-
-----
 
 
 
