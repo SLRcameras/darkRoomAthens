@@ -1,11 +1,11 @@
 [![](https://img.shields.io/badge/organization-SLRcameras-blue.svg)](https://github.com/SLRcameras) 
-[![](https://img.shields.io/badge/remote-darkRoom-green.svg)](https://github.com/SLRcameras/darkRoom) 
-[![](https://img.shields.io/badge/local-F:\prj\SLR\darkRoom-orange.svg)]() 
+[![](https://img.shields.io/badge/remote-darkRoomAthens-green.svg)](https://github.com/SLRcameras/darkRoomAthens) 
+[![](https://img.shields.io/badge/local-F:\prj\SLR\darkRoomAthens-orange.svg)]() 
 
 
 
 
-#  darkRoom
+#  darkRoomAthens
 Dark room equipment for black & white film photography.
 
 This is a dark-room set, I was given from a good friend. 
